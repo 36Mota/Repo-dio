@@ -1,0 +1,37 @@
+<html>
+    <head>
+        <title>Página Principal</title>
+    </head>
+
+    <body> 
+        <h1>Z_Kng</h1>
+        <hr />
+        <h2>Índice</h2>
+       
+        <ul>
+            <li><a href="#Quem somos">Quem somos</a></li>
+            <li><a href="#Criação"> Criação </a></li>
+            <li><a href="#Membros">Membros</a></li>
+        </ul>
+     
+        <h2 id="Quem somos">Quem somos </h2>
+        <p> Somos um grupo de jogadores, que gostam de jogar de video game seja em qualquer plataforma tais como, Xbox, PlayStation e até mesmo através do Computador(PC)</p>
+
+        <h2 id="Criação">Criação</h2>
+        <p>O Z_Kng foi criado em 2019, através de uma brincadeira de uma partida. Alguns membros do grupo ainda estão ativos e operando suas classes de armamentos.</p>
+
+        <h2 id="Membros">Membros</h2>
+        <ol>
+            <li>Arlan Buenos Vieira</li>
+            <p>Líder do Grupo</p>
+            <p>Mas conhecido como Xx Smoolk xX</p>
+            <li>Isaac Mota</li>
+            <p>Vice-Líder do grupo</p>
+            <p>Mas conhecido como xSeXy PisTol</p>
+            <li>Diego Silveira</li>
+            <p>Vice-Líder do grupo</p>
+            <p>Mas conhecido como DiegoXz22</p>
+
+        </ol>
+
+</html>
